@@ -549,11 +549,11 @@ If you want to check the output of your containers, type in `docker-compose logs
 
 ```
 $ docker-compose down
-Stopping composecounter_counter_1 ... done
-Stopping composecounter_redis_1 ... done
-Removing composecounter_counter_1 ... done
-Removing composecounter_redis_1 ... done
-Removing network composecounter_default
+Stopping simplecounter_counter_1 ... done
+Stopping simplecounter_redis_1 ... done
+Removing simplecounter_counter_1 ... done
+Removing simplecounter_redis_1 ... done
+Removing network simplecounter_default
 ```
 
 **Extra points:**
