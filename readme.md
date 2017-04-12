@@ -12,8 +12,8 @@ Git is required for Windows
 - [Git for Windows](https://git-scm.com/downloads)
 
 #### What's here?
-- [/labs.md](/labs.md) a dozen self-paced labs
-- [/samples](/samples) samples used for the labs
+- [Labs](/labs.md) - a dozen self-paced labs
+- [Samples](/samples.md) - samples used for the labs
 
 #### Additional resources:
 
